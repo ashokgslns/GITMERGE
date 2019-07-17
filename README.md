@@ -1,0 +1,2 @@
+# GITMERGE
+Merge command practice
